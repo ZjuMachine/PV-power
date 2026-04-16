@@ -6,6 +6,7 @@
 
 - **2026-04-16**: This paper has been accepted by **Nature Communications**.
 - **2025-12-03**: We added a new dataset, **AI-PVOD**, which includes AI weather model forecast data for PV power forecasting.
+- **2025-06-04**: We submitted it to **Nature Communications**.
 
 ## Authors
 
@@ -17,6 +18,23 @@
 ## Affiliation
 
 **NVIDIA Corporation, Beijing, China**
+
+---
+
+## Overview
+
+This repository provides the **full codebase** and **datasets** used in the paper:
+
+**“Rethinking the Use of Deep Learning Methods for Photovoltaic Power Forecasting”**
+
+The repository includes:
+
+- PV forecasting model implementation
+- baselines in original paper
+- Datasets used in the paper
+- Numerical Weather Prediction (NWP) forecast data
+- Satellite-observed irradiance data
+- Additional AI weather model forecast data via **AI-PVOD**
 
 ---
 
