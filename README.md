@@ -1,4 +1,6 @@
-This is the Full code and dataset (including the NWP forecast and satllite-observed irradiance) of the paper "Rethinking the Use of Deep Learning Methods for Photovoltaic Power Forecasting"
+# Rethinking the Use of Deep Learning Methods for Photovoltaic Power Forecasting
+
+> Full code and datasets for the paper **“Rethinking the Use of Deep Learning Methods for Photovoltaic Power Forecasting”**
 
 Authors: Yujia Zhang, Yuzhou Zhang (corresponding author), Zhixiang Dai, Rita Zhang
 
