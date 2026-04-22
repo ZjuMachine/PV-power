@@ -4,6 +4,7 @@
 
 ## News
 
+- **2026-04-23**: We have uploaded the full dataset in: https://huggingface.co/datasets/yujiaA/AI-PVOD
 - **2026-04-16**: This paper has been accepted by **Nature Communications**.
 - **2025-12-03**: We have added a new dataset, called AI-PVOD, including the AI weather model forecast data in PV power forecasting. The readers can get it from: 
 
