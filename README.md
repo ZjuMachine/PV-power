@@ -89,4 +89,8 @@ The hyperparameters for a specific model are taken from its original paper. Avai
 
 Note: This code can  run on an NVIDIA A100  GPU (with a memory size of 40GB or 80GB), and most of the running configurations can finish in 20-40 minutes for one model training
 
+## Visualization
+
+![image]([https://github.com/ZjuMachine/PV-power/blob/main/img/onlypredict2_01.png])
+
 
