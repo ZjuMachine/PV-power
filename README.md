@@ -91,6 +91,8 @@ Note: This code can  run on an NVIDIA A100  GPU (with a memory size of 40GB or 8
 
 ## Visualization
 
-![image]([https://github.com/ZjuMachine/PV-power/blob/main/img/onlypredict2_01.png])
+
+![image](https://github.com/ZjuMachine/PV-power/blob/main/img/onlypredict2_01.png)
+
 
 
