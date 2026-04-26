@@ -58,12 +58,7 @@ pip install -r requirements.txt
 ```
 1. Data preparation
 The data used in this paper is downloaded from: DKA Solar Centre (https://dkasolarcentre.com.au/)
-and Science Data Bank (https://www.scidb.cn/en/detail?dataSetId=f8f3d7af144f441795c5781497e56b62)
-For editors and referees' convenience, we have put the compressed file of one of the pre-processed data in the "dataset" folder, please use this command to uncompress it:
-```
-bzip2 -d KDASC.csv.bz2
-```
-Other pre-processed dataset used in this paper can be downloaded from https://github.com/ZjuMachine/PV-power/tree/main. Please download the full_dataset.zip file and save the extracted csv files to dataset folder in this repository if you want to reproduce all the results of this paper.
+and Science Data Bank (https://www.scidb.cn/en/detail?dataSetId=f8f3d7af144f441795c5781497e56b62). You can also donloaded from https://huggingface.co/datasets/yujiaA/AI-PVOD (pre-processed full dataset)
 
 As for the AI weather model forecast dataset, Please download the folder from https://github.com/ZjuMachine/PV-power/tree/main. Then, put the folder "AIweathermodel" into the folder: "dataset/"
 
