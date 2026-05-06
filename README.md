@@ -22,7 +22,7 @@
 
 ## Affiliation
 
-**NVIDIA Corporation, Beijing, China**
+
 
 ---
 
